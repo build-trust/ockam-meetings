@@ -14,6 +14,8 @@ We differ from the standards process in that Ockam reserves final say on decisio
 to its products, but our hope is that by involving the community from start to finish, we can
 find broad consensus on decisions that are made.
 
+There is also discussion happening in [Ockam's Community on GitHub Discussions](https://github.com/ockam-network/ockam/discussions)
+
 ## Process
 
 ### Attendance
@@ -23,16 +25,15 @@ meeting details, such as the zoom.us meeting URL, date/time, etc. It will also i
 for the meeting, which can be extended by opening a PR with the topic you wish to have put on
 the agenda.
 
-You may send an email to [Paul](paul@ockam.io) to request a calendar invite for meetings, which will 
-include all of the same details as the announcement in this repo. Invitations will be sent no later 
-than 2 weeks prior to the next meeting.
+You may send an email to [Matthew Gregory](matt@ockam.io) to request a calendar invite for meetings, which will
+include all of the same details as the announcement in this repo.
 
 ### Meetings
 
 Meetings will follow this rough outline:
 
 - Introduce attendees
-- Quick status update from Ockam (optional)
+- Quick status update from Ockam
 - Review the agenda, determine if changes are required, and agree on them if any are proposed
 - Walk through the agenda, item by item
 - Determine any action items and/or future agenda topics
@@ -41,7 +42,7 @@ Meetings will follow this rough outline:
 ### Agenda
 
 Agenda items can be added by anyone, by opening a PR against the meeting announcement and
-adding your item to the list. 
+adding your item to the list.
 
 If an agenda item is a proposed feature, or other significant change, the champion of that
 proposal should include any reference material needed for other attendees to prepare. It is
@@ -81,4 +82,3 @@ have been violations of the code of conduct, please reach out to Ockam directly.
    * [May 27th video call](2020/05-27.md)
 
 </details>
-
