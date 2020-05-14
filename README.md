@@ -21,12 +21,11 @@ There is also discussion happening in [Ockam's Community on GitHub Discussions](
 ### Attendance
 
 Meetings will be announced in advance via PR on this repository. The announcement will include
-meeting details, such as the zoom.us meeting URL, date/time, etc. It will also include the agenda
+meeting details, such as the Zoom meeting URL, date/time, etc. It will also include the agenda
 for the meeting, which can be extended by opening a PR with the topic you wish to have put on
 the agenda.
 
-You may send an email to [Matthew Gregory](matt@ockam.io) to request a calendar invite for meetings, which will
-include all of the same details as the announcement in this repo.
+Meetings recur on the last Wednesday of every month at 1pm Pacific Local Time.
 
 ### Meetings
 
@@ -69,7 +68,7 @@ See the proposals repo for details on the RFC process.
 
 ### Code Of Conduct
 
-See our code of conduct [here](CodeOfConduct.md).
+See our code of conduct [here](https://www.ockam.io/learn/guides/team/conduct/).
 
 It is expected that all community members follow the code of conduct. If you feel that there
 have been violations of the code of conduct, please reach out to Ockam directly.
@@ -79,6 +78,6 @@ have been violations of the code of conduct, please reach out to Ockam directly.
 <details open>
 <summary>2020</summary>
 
-   * [May 27th video call](2020/05-27.md)
+   * [May 27 video call](2020/05-27.md)
 
 </details>
