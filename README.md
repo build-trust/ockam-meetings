@@ -79,5 +79,6 @@ have been violations of the code of conduct, please reach out to Ockam directly.
 <summary>2020</summary>
 
    * [May 27 video call](2020/05-27.md)
+   * [June 24 video call](2020/06-24.md)
 
 </details>
