@@ -60,8 +60,9 @@ have been violations of the code of conduct, please reach out to Ockam directly.
 <details open>
 <summary>2020</summary>
 
-   * [May 27 video call](2020/05-27.md)
-   * [June 24 video call](2020/06-24.md)
-   * [July 29 video call](2020/07-29.md)
-
+  * [August 26](2020/08-26.md)
+  * [July 29](2020/07-29.md)
+  * [June 24](2020/06-24.md)
+  * [May 27](2020/05-27.md)
+   
 </details>
