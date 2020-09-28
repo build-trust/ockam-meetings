@@ -60,9 +60,10 @@ have been violations of the code of conduct, please reach out to Ockam directly.
 <details open>
 <summary>2020</summary>
 
+  * [September 30](2020/09-30.md)
   * [August 26](2020/08-26.md)
   * [July 29](2020/07-29.md)
   * [June 24](2020/06-24.md)
   * [May 27](2020/05-27.md)
-   
+
 </details>
