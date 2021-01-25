@@ -58,6 +58,11 @@ have been violations of the code of conduct, please reach out to Ockam directly.
 ## Schedule
 
 <details open>
+<summary>2021</summary>
+
+  * [January 27](2021/01-27.md)
+
+<details open>
 <summary>2020</summary>
 
   * [September 30](2020/09-30.md)
